@@ -1,2 +1,2 @@
 this is an inserted key.
-it is blue in color.
+it is red in color.
